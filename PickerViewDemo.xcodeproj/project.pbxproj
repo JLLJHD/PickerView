@@ -19,6 +19,7 @@
 		C7760C791E5D3F9700887E2B /* UIView+Common.m in Sources */ = {isa = PBXBuildFile; fileRef = C7760C781E5D3F9700887E2B /* UIView+Common.m */; };
 		C7760C7C1E5D3FCF00887E2B /* PickerToolBar.m in Sources */ = {isa = PBXBuildFile; fileRef = C7760C7B1E5D3FCF00887E2B /* PickerToolBar.m */; };
 		C7760C7E1E5D7A9A00887E2B /* area.plist in Resources */ = {isa = PBXBuildFile; fileRef = C7760C7D1E5D7A9A00887E2B /* area.plist */; };
+		C7760C801E5D852700887E2B /* test.png in Resources */ = {isa = PBXBuildFile; fileRef = C7760C7F1E5D852700887E2B /* test.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,7 @@
 		C7760C7A1E5D3FCF00887E2B /* PickerToolBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PickerToolBar.h; sourceTree = "<group>"; };
 		C7760C7B1E5D3FCF00887E2B /* PickerToolBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PickerToolBar.m; sourceTree = "<group>"; };
 		C7760C7D1E5D7A9A00887E2B /* area.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = area.plist; sourceTree = "<group>"; };
+		C7760C7F1E5D852700887E2B /* test.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 				C7760C411E5D336C00887E2B /* AppDelegate.m */,
 				C7760C431E5D336C00887E2B /* ViewController.h */,
 				C7760C441E5D336C00887E2B /* ViewController.m */,
+				C7760C7F1E5D852700887E2B /* test.png */,
 				C7760C721E5D35DA00887E2B /* CusPickerView */,
 				C7760C461E5D336C00887E2B /* Main.storyboard */,
 				C7760C491E5D336C00887E2B /* Assets.xcassets */,
@@ -274,6 +277,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7760C801E5D852700887E2B /* test.png in Resources */,
 				C7760C4D1E5D336C00887E2B /* LaunchScreen.storyboard in Resources */,
 				C7760C7E1E5D7A9A00887E2B /* area.plist in Resources */,
 				C7760C4A1E5D336C00887E2B /* Assets.xcassets in Resources */,
@@ -541,6 +545,7 @@
 				C7760C691E5D336C00887E2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C7760C6A1E5D336C00887E2B /* Build configuration list for PBXNativeTarget "PickerViewDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -549,6 +554,7 @@
 				C7760C6C1E5D336C00887E2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C7760C6D1E5D336C00887E2B /* Build configuration list for PBXNativeTarget "PickerViewDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -557,6 +563,7 @@
 				C7760C6F1E5D336C00887E2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
