@@ -119,7 +119,6 @@
 				C7760C411E5D336C00887E2B /* AppDelegate.m */,
 				C7760C431E5D336C00887E2B /* ViewController.h */,
 				C7760C441E5D336C00887E2B /* ViewController.m */,
-				C7760C7F1E5D852700887E2B /* test.png */,
 				C7760C721E5D35DA00887E2B /* CusPickerView */,
 				C7760C461E5D336C00887E2B /* Main.storyboard */,
 				C7760C491E5D336C00887E2B /* Assets.xcassets */,
@@ -159,6 +158,7 @@
 		C7760C721E5D35DA00887E2B /* CusPickerView */ = {
 			isa = PBXGroup;
 			children = (
+				C7760C7F1E5D852700887E2B /* test.png */,
 				C7760C7D1E5D7A9A00887E2B /* area.plist */,
 				C7760C761E5D3AD500887E2B /* Constants.h */,
 				C7760C771E5D3F9700887E2B /* UIView+Common.h */,
